@@ -1,3 +1,4 @@
 # Apnacollage-demo
-This is my first depository
-author - KARAN KHANNA
+This is my first Git depository
+<br>
+Author - KARAN KHANNA
